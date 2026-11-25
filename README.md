@@ -4,6 +4,28 @@ A nostalgic collection of expressive, AI-assisted emojis, created and curated by
 
 Inspired by the classic animated emoticons of early internet forums, the project explores new visual interpretations of familiar emotions, facial expressions and gestures, with an emphasis on consistent sizing, expressive faces and gentle animation.
 
+## Emoji Gallery
+
+![angry](angry.webp) \
+![arms-crossed](arms-crossed.webp) \
+![bouquet](bouquet.webp) \
+![exasperation](exasperation.webp) \
+![faint](faint.webp) \
+![grin](grin.webp) \
+![hahaha](hahaha.webp) \
+![hug](hug.webp) \
+![hugging](hugging.webp) \
+![love](love.webp) \
+![peace](peace.webp) \
+![rolling-laughing](rolling-laughing.webp) \
+![scratching-head](scratching-head.webp) \
+![shocked](shocked.webp) \
+![sick](sick.webp) \
+![smile](smile.webp) \
+![stop](stop.webp) \
+![surprise](surprise.webp) \
+![whistle](whistle.webp)
+
 ## License
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
