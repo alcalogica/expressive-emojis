@@ -21,11 +21,11 @@ Expressive Emojis by alcalogica — CC BY-SA 4.0
 
 ## Artwork and inspiration
 
-This collection was developed with the assistance of generative AI, including ChatGPT. It draws inspiration from classic internet emoticons, including historical examples preserved on BG-Mamma.
+This collection was developed with the assistance of generative AI, including ChatGPT. It draws inspiration from the expressive style of classic animated internet emoticons.
 
 No ownership is claimed over third-party reference artwork, generic expressions or public-domain material. Third-party rights are excluded from the project's license. Material requiring third-party permission is not cleared for redistribution merely by inclusion in this project.
 
-See [CREDITS.md](CREDITS.md) for source information and [LICENSE](LICENSE) for the licensing notice.
+See [CREDITS.md](CREDITS.md) for artwork acknowledgements and [LICENSE](LICENSE) for the licensing notice.
 
 ## Contact
 
