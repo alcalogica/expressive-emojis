@@ -5,26 +5,27 @@ A nostalgic collection of expressive, AI-assisted emojis, created and curated by
 Inspired by the classic animated emoticons of early internet forums, the project explores new visual interpretations of familiar emotions, facial expressions and gestures, with an emphasis on consistent sizing, expressive faces and gentle animation.
 
 ## Emoji Gallery
-
-![angry](angry.webp) \
-![arms-crossed](arms-crossed.webp) \
-![bouquet](bouquet.webp) \
-![exasperation](exasperation.webp) \
-![faint](faint.webp) \
-![grin](grin.webp) \
-![hahaha](hahaha.webp) \
-![hug](hug.webp) \
-![hugging](hugging.webp) \
-![love](love.webp) \
-![peace](peace.webp) \
-![rolling-laughing](rolling-laughing.webp) \
-![scratching-head](scratching-head.webp) \
-![shocked](shocked.webp) \
-![sick](sick.webp) \
-![smile](smile.webp) \
-![stop](stop.webp) \
-![surprise](surprise.webp) \
-![whistle](whistle.webp)
+<p align="center">
+  <img src="smile.webp" height="40" alt="Smile">
+  <img src="grin.webp" height="40" alt="Grin">
+  <img src="hahaha.webp" height="40" alt="Hahaha">
+  <img src="rolling-laughing.webp" height="40" alt="Rolling laughing">
+  <img src="bouquet.webp" height="40" alt="Bouquet">
+  <img src="love.webp" height="40" alt="Love">
+  <img src="hug.webp" height="40" alt="Hug">
+  <img src="hugging.webp" height="40" alt="Hugging">
+  <img src="peace.webp" height="40" alt="Peace">
+  <img src="whistle.webp" height="40" alt="Whistle">
+  <img src="surprise.webp" height="40" alt="Surprise">
+  <img src="shocked.webp" height="40" alt="Shocked">
+  <img src="scratching-head.webp" height="40" alt="Scratching head">
+  <img src="arms-crossed.webp" height="40" alt="Arms crossed">
+  <img src="exasperation.webp" height="40" alt="Exasperation">
+  <img src="angry.webp" height="40" alt="Angry">
+  <img src="stop.webp" height="40" alt="Stop">
+  <img src="sick.webp" height="40" alt="Sick">
+  <img src="faint.webp" height="40" alt="Faint">
+</p>
 
 ## License
 
