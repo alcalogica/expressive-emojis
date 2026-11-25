@@ -16,7 +16,7 @@ ChatGPT and generative AI have been used to assist with new visual interpretatio
 
 No ownership is claimed over original third-party reference artwork. Generic expressions and gestures are not claimed as exclusive property of this project.
 
-Where a creation reproduces protected third-party expression, any necessary permissions must be established before redistribution. Attribution alone does not replace permission. The project license covers only eligible contributions for which the maintainer holds licensing rights.
+Where a creation incorporates or closely resembles protected third-party expression, any necessary permissions must be established before redistribution. Attribution alone does not replace permission. The project license covers only eligible contributions for which the maintainer holds the necessary licensing rights.
 
 ## Contact
 
