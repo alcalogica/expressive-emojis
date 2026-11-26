@@ -5,6 +5,7 @@ A nostalgic collection of expressive, AI-assisted emojis, created and curated by
 Inspired by the classic animated emoticons of early internet forums, the project explores new visual interpretations of familiar emotions, facial expressions and gestures, with an emphasis on consistent sizing, expressive faces and gentle animation.
 
 ## Emoji Gallery
+
 <p align="center">
   <img src="smile.webp" height="40" alt="Smile">
   <img src="grin.webp" height="40" alt="Grin">
@@ -12,10 +13,13 @@ Inspired by the classic animated emoticons of early internet forums, the project
   <img src="rolling-laughing.webp" height="40" alt="Rolling laughing">
   <img src="bouquet.webp" height="40" alt="Bouquet">
   <img src="love.webp" height="40" alt="Love">
+  <img src="blushing.webp" height="40" alt="Blushing">
   <img src="hug.webp" height="40" alt="Hug">
   <img src="hugging.webp" height="40" alt="Hugging">
   <img src="peace.webp" height="40" alt="Peace">
+  <img src="dance.webp" height="40" alt="Dance">
   <img src="whistle.webp" height="40" alt="Whistle">
+  <img src="idea.webp" height="40" alt="Idea">
   <img src="surprise.webp" height="40" alt="Surprise">
   <img src="shocked.webp" height="40" alt="Shocked">
   <img src="scratching-head.webp" height="40" alt="Scratching head">
@@ -23,6 +27,8 @@ Inspired by the classic animated emoticons of early internet forums, the project
   <img src="exasperation.webp" height="40" alt="Exasperation">
   <img src="angry.webp" height="40" alt="Angry">
   <img src="stop.webp" height="40" alt="Stop">
+  <img src="cry.webp" height="40" alt="Crying">
+  <img src="yawning.webp" height="40" alt="Yawning">
   <img src="sick.webp" height="40" alt="Sick">
   <img src="faint.webp" height="40" alt="Faint">
 </p>
