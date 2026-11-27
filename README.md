@@ -25,7 +25,7 @@ Inspired by the classic animated emoticons of early internet forums, the project
   <img src="whistle.webp" height="32" alt="Whistle">
   <img src="idea.webp" height="32" alt="Idea">
   <img src="scratching-head.webp" height="32" alt="Scratching head">
-  <img src="surprise.webp" height="32" alt="Surprise">
+  <img src="rolling-eyes.webp" height="32" alt="Surprise">
   <img src="shocked.webp" height="32" alt="Shocked">
   <img src="faint.webp" height="32" alt="Faint">
   <img src="yawning.webp" height="32" alt="Yawning">
