@@ -8,10 +8,11 @@ Inspired by the classic animated emoticons of early internet forums, the project
 
 <p>
   <img src="smile.webp" height="32" alt="Smile">
-  <img src="grin.webp" height="32" alt="Grin">
-  <img src="laughing.webp" height="32" alt="Laughing">
   <img src="hahaha.webp" height="32" alt="Hahaha">
+  <img src="laughing.webp" height="32" alt="Laughing">
   <img src="rolling-laughing.webp" height="32" alt="Rolling laughing">
+  <img src="grin.webp" height="32" alt="Grin">
+  <img src="wink.webp" height="32" alt="Wink">
   <img src="blushing.webp" height="32" alt="Blushing">
   <img src="flirty.webp" height="32" alt="Flirty">
   <img src="love.webp" height="32" alt="Love">
@@ -23,22 +24,26 @@ Inspired by the classic animated emoticons of early internet forums, the project
   <img src="peace.webp" height="32" alt="Peace">
   <img src="praying.webp" height="32" alt="Praying">
   <img src="whistle.webp" height="32" alt="Whistle">
+  <img src="popcorn.webp" height="32" alt="Popcorn">
   <img src="idea.webp" height="32" alt="Idea">
   <img src="scratching-head.webp" height="32" alt="Scratching head">
-  <img src="rolling-eyes.webp" height="32" alt="Surprise">
   <img src="shocked.webp" height="32" alt="Shocked">
   <img src="faint.webp" height="32" alt="Faint">
   <img src="yawning.webp" height="32" alt="Yawning">
+  <img src="rolling-eyes.webp" height="32" alt="Rolling eyes">
   <img src="arms-crossed.webp" height="32" alt="Arms crossed">
+  <img src="thumbs-down.webp" height="32" alt="Thumbs down">
   <img src="stop.webp" height="32" alt="Stop">
   <img src="facepalm.webp" height="32" alt="Facepalm">
   <img src="exasperation.webp" height="32" alt="Exasperation">
   <img src="cry.webp" height="32" alt="Cry">
   <img src="sick.webp" height="32" alt="Sick">
   <img src="pulling-hair.webp" height="32" alt="Pulling hair">
+  <img src="banging-head.webp" height="32" alt="Banging head">
   <img src="angry.webp" height="32" alt="Angry">
   <img src="angry-shooting.webp" height="32" alt="Angry shooting">
 </p>
+
 ## License
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
